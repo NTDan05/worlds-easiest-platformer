@@ -35,8 +35,8 @@ section {
 }
 
 .profile-img {
-  width: 120px;
-  height: auto;
+  width: auto;
+  height: 180px;
   border-radius: 12px;         /* smooth rounded corners */
   flex-shrink: 0;              /* prevents image from shrinking */
 }
@@ -64,6 +64,37 @@ section {
   width: 100%;
   height: 100%;
   border: 0;
+}
+
+ul.downloads {
+  background: #3b3b3b;
+  border: 1px solid #6f6f6f;
+}
+
+.downloads li {
+  width: 135px;
+  box-sizing: border-box;
+  border-right: 1px solid #6f6f6f;
+}
+
+.downloads a {
+  color: #a9a9a9;
+}
+
+.downloads a:hover, .downloads a:focus {
+  color: #98A3A3;
+}
+
+.downloads ul a:active {
+  background-color: #0f0f0f;
+}
+
+strong {
+  color: #ddd;
+}
+
+.downloads a strong {
+  color: #ddd;
 }
 
 @media print, screen and (max-width: 960px) {
