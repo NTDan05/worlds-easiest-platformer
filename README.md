@@ -19,15 +19,13 @@ The World's Easiest Platformer is just like any other platformer... right?
   <img src="assets/images/profile.png" alt="Author Profile" class="profile-img" />
   <div class="profile-text">
     <h2>
-      Thanh Nguyen
+      Thanh Nguyen - Programmer and Level Designer
     </h2>
     <p>
       Thanh Nguyen (Thành) is a student at George Mason University majoring in both Computer Science and Math.
       He loves all things related to video games, including playing them and making them. With his limited
       art skills, he prefers to work on the programming and design side of things. Besides games, he also
       has a vested interest in math, specifically pure math and theoretical computer science.
-
-      Role: Programming and level design
     </p>
   </div>
 </div>
@@ -36,10 +34,10 @@ The World's Easiest Platformer is just like any other platformer... right?
   <img src="assets/images/profile.png" alt="Author Profile" class="profile-img" />
   <div class="profile-text">
     <h2>
-      Jung Chang
+      Jung Chang - Coordinator
     </h2>
     <p>
-      Role: Coordinator
+      Jung Chang is...
     </p>
   </div>
 </div>
@@ -48,13 +46,13 @@ The World's Easiest Platformer is just like any other platformer... right?
   <img src="assets/images/profile.png" alt="Author Profile" class="profile-img" />
   <div class="profile-text">
     <h2>
-      Joey Bourgeois
+      Joey Bourgeois - Artist and Sound Designer
     </h2>
     <p>
-      Role: Art and Sound
+      Joey Bourgeois is...
     </p>
   </div>
 </div>
 
 # Third-Party Assets
-All assets were made with Unity's built-in assets.
+All assets were made with Unity's built-in assets or custom-made by the team's artist.
