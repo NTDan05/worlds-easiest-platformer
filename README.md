@@ -14,7 +14,7 @@ The World's Easiest Platformer is just like any other platformer... right?
   <iframe src="https://www.youtube.com/embed/Qskm9MTz2V4" allowfullscreen="true"> </iframe>
 </div>
 
-# Author Profile
+# Team Profile
 <div class="profile">
   <img src="assets/images/profile.png" alt="Author Profile" class="profile-img" />
   <div class="profile-text">
@@ -34,7 +34,7 @@ The World's Easiest Platformer is just like any other platformer... right?
   <img src="assets/images/profile.png" alt="Author Profile" class="profile-img" />
   <div class="profile-text">
     <h2>
-      Jung Chang - Coordinator
+      Jung Chang - Programmer and Coordinator
     </h2>
     <p>
       Jung Chang is...
