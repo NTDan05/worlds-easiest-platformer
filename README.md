@@ -49,7 +49,7 @@ The World's Easiest Platformer is just like any other platformer... right?
       Joey Bourgeois - Artist and Sound Designer
     </h2>
     <p>
-      Joey Bourgeois is...
+      Joey Bourgeois is here lol.
     </p>
   </div>
 </div>
