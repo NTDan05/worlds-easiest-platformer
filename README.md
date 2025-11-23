@@ -1,5 +1,11 @@
 # Abstract
-The World's Easiest Platformer is just like any other platformer... right?
+The World's Easiest Platformer is a perfectly ordinary platformer… probably. Like the name says, it's the easiest platformer you will ever play. It has levels, platforms, a jump button, all the usual stuff you would expect. There's absolutely nothing weird about this game, and this abstract would never ever lie to you about that. Ever. Probably.
+
+Run and jump around as a business man in a suit as you play through 10 very normal levels, none of which will do anything unexpected. We definitely did not spend a godawful amount of time setting traps in the levels that would read you like a book. Like making disappearing platforms. Or reversing gravity. Or make you play Flappy Bird... probably.
+
+We're not jerks though, so progress will be automatically saved when you complete a level, in case you need to take a break from ~~the rage induced by our traps~~ the overwhelming awesomeness of these levels! We also have sprites, sounds effects, and background music to ~~taunt you while you suffer~~ enhance your experience! Probably. If you don't like pixel art or 8-bit style music and sounds, we're sorry for your bad tastes.
+
+Basically, please play our game. We guarantee you'll have a ~~miserable~~ great experience!
 
 # Screenshots
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
