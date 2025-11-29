@@ -9,9 +9,12 @@ Basically, please play our game. We guarantee you'll have a ~~miserable~~ great 
 
 # Screenshots
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
-  <img src="assets/images/placeholder.png" alt="Placeholder" height="225"/>
-  <img src="assets/images/placeholder.png" alt="Placeholder" height="225"/>
-  <img src="assets/images/placeholder.png" alt="Placeholder" height="225"/>
+  <img src="assets/images/level_1.png" alt="Placeholder" height="225"/>
+  <img src="assets/images/level_2.png" alt="Placeholder" height="225"/>
+  <img src="assets/images/level_3.png" alt="Placeholder" height="225"/>
+  <img src="assets/images/level_4.png" alt="Placeholder" height="225"/>
+  <img src="assets/images/level_5.png" alt="Placeholder" height="225"/>
+  <img src="assets/images/level_6.png" alt="Placeholder" height="225"/>
 </div>
 
 # Video Demo
