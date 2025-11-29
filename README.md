@@ -49,7 +49,7 @@ Basically, please play our game. We guarantee you'll have a ~~miserable~~ great 
 </div>
 
 <div class="profile">
-  <img src="assets/images/Face.jpg" alt="Author Profile" class="profile-img" style="width: 25%;"/>
+  <img src="assets/images/Face.jpg" alt="Author Profile" class="profile-img" />
   <div class="profile-text">
     <h2>
       Joey Bourgeois - Artist and Sound Designer
