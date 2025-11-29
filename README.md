@@ -55,7 +55,8 @@ Basically, please play our game. We guarantee you'll have a ~~miserable~~ great 
       Joey Bourgeois - Artist and Sound Designer
     </h2>
     <p>
-      Joey Bourgeois is here lol.
+      Joey Bourgeois is a CS major at GMU. Known colloquially as "The Mash Slinging Hasher" for a certain
+      potato related incident. Hobbies include: playing video games, making video games and talking in the 3rd person.
     </p>
   </div>
 </div>
