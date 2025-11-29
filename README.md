@@ -23,6 +23,7 @@ Basically, please play our game. We guarantee you'll have a ~~miserable~~ great 
 # Team Profile
 <div class="profile">
   <img src="assets/images/thanh_profile.png" alt="Author Profile" class="profile-img" />
+  <img src="assets/images/Face.png" alt="Author Profile" class="profile-img" />
   <div class="profile-text">
     <h2>
       Thanh Nguyen - Programmer and Level Designer
