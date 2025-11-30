@@ -46,7 +46,10 @@ Basically, please play our game. We guarantee you'll have a ~~miserable~~ great 
       Jung Chang - Programmer and Coordinator
     </h2>
     <p>
-      Jung Chang is...
+      Jung Chang is a student at George Mason University majoring in Computer Science. He enjoys working on both gameplay programming
+      and application logic, especially in projects where he can refine user experience and optimize performance.
+      Outside of coding, Jung is passionate about video games—both playing and creating them—and loves exploring
+      how game mechanics, balance, and design choices shape the player experience. 
     </p>
   </div>
 </div>
