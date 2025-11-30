@@ -40,7 +40,7 @@ Basically, please play our game. We guarantee you'll have a ~~miserable~~ great 
 </div>
 
 <div class="profile">
-  <img src="assets/images/placeholder.png" alt="Author Profile" class="profile-img" />
+  <img src="assets/images/Jung.png" alt="Author Profile" class="profile-img" />
   <div class="profile-text">
     <h2>
       Jung Chang - Programmer and Coordinator
