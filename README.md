@@ -74,8 +74,8 @@ All music by Jeremy Crockett for Omnibus, a game by Buddy Cops LLC and published
 
 Jump, jetpack, menu slect, and death sound effects are generated with bfxr.net.
 
-Invert gravity sound: https://pixabay.com/sound-effects/instant-teleport-90645
+Invert gravity sound: [https://pixabay.com/sound-effects/instant-teleport-90645](url)
 
-Fake taxi clown honk sound: modified from https://pixabay.com/sound-effects/horn-430368
+Fake taxi clown honk sound: modified from [https://pixabay.com/sound-effects/horn-430368](url)
 
-Car unlock sound: https://pixabay.com/sound-effects/old-maruti-car-unlock-sound-keyless-entry-beep-327691
+Car unlock sound: [https://pixabay.com/sound-effects/old-maruti-car-unlock-sound-keyless-entry-beep-327691](url)
