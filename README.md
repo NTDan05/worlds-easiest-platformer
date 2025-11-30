@@ -69,8 +69,13 @@ Basically, please play our game. We guarantee you'll have a ~~miserable~~ great 
 
 # Third-Party Assets
 All visual art (sprites and background) are custom-made by the team's artist.
+
 All music by Jeremy Crockett for Omnibus, a game by Buddy Cops LLC and published by Devolver Digital.
-Jump, jetpack, menu slect, and death sound effects are generated with bfxr.net
+
+Jump, jetpack, menu slect, and death sound effects are generated with bfxr.net.
+
 Invert gravity sound: https://pixabay.com/sound-effects/instant-teleport-90645
+
 Fake taxi clown honk sound: modified from https://pixabay.com/sound-effects/horn-430368
+
 Car unlock sound: https://pixabay.com/sound-effects/old-maruti-car-unlock-sound-keyless-entry-beep-327691
