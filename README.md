@@ -20,7 +20,7 @@ Basically, please play our game. We guarantee you'll have a ~~miserable~~ great 
 # Video Demo
 
 <div class="responsive-iframe">
-  <iframe src="https://www.youtube.com/embed/Qskm9MTz2V4" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/2OdxDK7MaIM" allowfullscreen="true"> </iframe>
 </div>
 
 # Team Profile
