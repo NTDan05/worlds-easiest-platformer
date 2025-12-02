@@ -11,11 +11,12 @@ Basically, please play our game. We guarantee you'll have a ~~miserable~~ great 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
   <img src="assets/images/title.png" alt="Title Screen" height="225"/>
   <img src="assets/images/level_1.png" alt="Level 1" height="225"/>
-  <img src="assets/images/level_2.png" alt="Placeholder" height="225"/>
-  <img src="assets/images/level_3.png" alt="Placeholder" height="225"/>
-  <img src="assets/images/level_4.png" alt="Placeholder" height="225"/>
-  <img src="assets/images/level_5.png" alt="Placeholder" height="225"/>
-  <img src="assets/images/level_6.png" alt="Placeholder" height="225"/>
+  <img src="assets/images/level_4.png" alt="Level 4" height="225"/>
+  <img src="assets/images/level_8.png" alt="Level 8" height="225"/>
+  <img src="assets/images/level_10.png" alt="Level 10" height="225"/>
+  <img src="assets/images/finish.png" alt="Finish Screen" height="225"/>
+  <img src="assets/images/loading.png" alt="Loading Screen" height="225"/>
+  <img src="assets/images/tic_tac_toe.png" alt="Tic Tac Toe Screen" height="225"/>
 </div>
 
 # Video Demo
