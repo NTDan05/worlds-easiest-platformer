@@ -81,3 +81,6 @@ Invert gravity sound: [pixabay.com/sound-effects/instant-teleport-90645](https:/
 Fake taxi clown honk sound: modified from [pixabay.com/sound-effects/horn-430368](https://pixabay.com/sound-effects/horn-430368)
 
 Car unlock sound: [pixabay.com/sound-effects/old-maruti-car-unlock-sound-keyless-entry-beep-327691](https://pixabay.com/sound-effects/old-maruti-car-unlock-sound-keyless-entry-beep-327691)
+
+# Generative AI Disclosure
+GitHub Copilot was used as a programming aid for the project and this website. No images or sounds were created with generative AI. 
