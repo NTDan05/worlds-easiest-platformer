@@ -30,7 +30,7 @@ Basically, please play our game. We guarantee you'll have a ~~miserable~~ great 
   <img src="assets/images/thanh_profile.png" alt="Author Profile" class="profile-img" />
   <div class="profile-text">
     <h2>
-      Thanh Nguyen - Programmer and Level Designer
+      Thanh Nguyen - Lead Programmer and Level Designer
     </h2>
     <p>
       Thanh Nguyen (Thành) is a student at George Mason University majoring in both Computer Science and Math.
@@ -45,7 +45,7 @@ Basically, please play our game. We guarantee you'll have a ~~miserable~~ great 
   <img src="assets/images/Jung.png" alt="Author Profile" class="profile-img" width="25%" />
   <div class="profile-text">
     <h2>
-      Jung Chang - Programmer and Coordinator
+      Jung Chang - Coordinator
     </h2>
     <p>
       Jung Chang is a student at George Mason University majoring in Computer Science. He enjoys working on both gameplay programming
