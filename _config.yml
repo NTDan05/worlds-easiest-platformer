@@ -2,7 +2,8 @@ theme: jekyll-theme-minimal
 title: The World's Easiest Platformer
 description: Group project for GMU CS 325 Fall 2025
 show_downloads: true
+logo: /assets/images/logo.png
 downloads:
-  win_url: https://github.com/ntdan05/worlds-easiest-platformer/raw/main/downloads/worlds_easiest_platformer_win.zip
-  mac_url: https://github.com/ntdan05/worlds-easiest-platformer/raw/main/downloads/worlds_easiest_platformer_mac.tar.gz
-  linux_url: https://github.com/ntdan05/worlds-easiest-platformer/raw/main/downloads/worlds_easiest_platformer_linux.tar.gz
+  win_url: https://github.com/ntdan05/split-apart/raw/main/downloads/worlds_easiest_platformer_win.zip
+  mac_url: https://github.com/ntdan05/split-apart/raw/main/downloads/worlds_easiest_platformer_mac.tar
+  linux_url: https://github.com/ntdan05/split-apart/raw/main/downloads/worlds_easiest_platformer_linux.tar
