@@ -7,6 +7,8 @@ We're not jerks though, so progress will be automatically saved when you complet
 
 Basically, please play our game. We guarantee you'll have a ~~miserable~~ great experience!
 
+**Note for MacOS users: Unity builds for Mac are extremely finicky, so you may get a "The application can't be opened" error. To fix this, open up the Terminal and enter the command `chmod -R a+x "Downloads/The World's Easiest Platformer.app"` (or whatever the path to the app is) after you have extracted the app out.**
+
 # Screenshots
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-bottom: 20px;">
   <img src="assets/images/title.png" alt="Title Screen" height="225"/>
