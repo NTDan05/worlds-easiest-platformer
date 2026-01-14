@@ -44,21 +44,6 @@ Basically, please play our game. We guarantee you'll have a ~~miserable~~ great 
 </div>
 
 <div class="profile">
-  <img src="assets/images/Jung.png" alt="Author Profile" class="profile-img" width="25%" />
-  <div class="profile-text">
-    <h2>
-      Jung Chang - Coordinator
-    </h2>
-    <p>
-      Jung Chang is a student at George Mason University majoring in Computer Science. He enjoys working on both gameplay programming
-      and application logic, especially in projects where he can refine user experience and optimize performance.
-      Outside of coding, Jung is passionate about video games—both playing and creating them—and loves exploring
-      how game mechanics, balance, and design choices shape the player experience. 
-    </p>
-  </div>
-</div>
-
-<div class="profile">
   <img src="assets/images/Face.jpg" alt="Author Profile" class="profile-img" width="25%" />
   <div class="profile-text">
     <h2>
